@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="baka-world/kernel_xiaomi_sm8250" path="kernel/xiaomi/sm8250" remote="github" revision="android12-stable" />
+  <project name="baka-world/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="lineage-19.1" />
+  <project name="baka-world/android_device_xiaomi_lmi" path="device/xiaomi/lmi" remote="github" revision="12.1" />
+  <project name="baka-world/vendor-xiaomi_lmi-S" path="vendor/xiaomi/lmi" remote="github" revision="12.1" />
+  <project name="baka-world/device_xiaomi_sm8250-common" path="device/xiaomi/sm8250-common" remote="github" revision="12.1-lmi" />
+  <project name="baka-world/vendor_xiaomi_lmi_common-S" path="vendor/xiaomi/sm8250-common" remote="github" revision="12.1" />
+
+</manifest>
